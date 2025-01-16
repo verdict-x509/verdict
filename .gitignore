@@ -1,0 +1,5 @@
+.verus-log/
+target/
+.vscode/
+.old/
+.DS_Store
